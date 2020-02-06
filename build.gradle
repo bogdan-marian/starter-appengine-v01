@@ -55,6 +55,9 @@ dependencies {
     }
 
     compile 'com.google.cloud:google-cloud-firestore:1.32.0'
+    // https://mvnrepository.com/artifact/javax.inject/javax.inject
+    compile group: 'javax.inject', name: 'javax.inject', version: '1'
+
 
 }
 
