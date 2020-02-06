@@ -54,7 +54,7 @@ dependencies {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
     }
 
-	compile 'com.google.cloud:google-cloud-firestore:1.32.0'
+	//compile 'com.google.cloud:google-cloud-firestore:1.32.0'
 
 }
 
@@ -79,8 +79,8 @@ appengine {
     deploy {   // deploy configuration
         stopPreviousVersion = true  // default - stop the current version
         promote = true              // default - & make this the current version
-        projectId = 'bogdanplayground01' // delegate to project in gcloud config
-        version = 'v0-00-00'   // delegate to gcloud to generate a version
+        projectId = 'friendly-eats-d033d'
+        version = 'v0-00-00'
     }
 
 }

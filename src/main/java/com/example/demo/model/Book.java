@@ -1,14 +1,10 @@
 package com.example.demo.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
-import org.springframework.cloud.gcp.data.datastore.core.mapping.Entity;
-import org.springframework.data.annotation.Id;
 
 
-@Entity(name = "books")
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class Book {
-    @Id
     Long id;
 
     String title;

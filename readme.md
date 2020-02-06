@@ -9,6 +9,8 @@
 - [quick start server client library](https://cloud.google.com/firestore/docs/quickstart-servers)
 - [better explinations on appengine initialization](https://firebase.google.com/docs/firestore/quickstart)
 - [spring basic resource and dependency injection walk throob](https://www.baeldung.com/spring-annotations-resource-inject-autowire)
+- [install cli firebase tool](https://firebase.google.com/docs/cli/#install-cli-mac-linux)
+
 
 ## datastore
 ### spring boot datastore tutorial
