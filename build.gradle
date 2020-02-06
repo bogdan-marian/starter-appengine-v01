@@ -53,6 +53,10 @@ dependencies {
     testImplementation('org.springframework.boot:spring-boot-starter-test') {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
     }
+
+    // https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-gcp-starter-data-datastore
+    compile group: 'org.springframework.cloud', name: 'spring-cloud-gcp-starter-data-datastore', version: '1.2.1.RELEASE'
+
 }
 
 gretty {
