@@ -9,3 +9,8 @@
 - [quick start server client library](https://cloud.google.com/firestore/docs/quickstart-servers)
 - [better explinations on appengine initialization](https://firebase.google.com/docs/firestore/quickstart)
 - [spring basic resource and dependency injection walk throob](https://www.baeldung.com/spring-annotations-resource-inject-autowire)
+
+## datastore
+### spring boot datastore tutorial
+- [spring boot datastore tutorial](https://codelabs.developers.google.com/codelabs/cloud-spring-datastore/index.html?index=..%2F..index#0)
+
