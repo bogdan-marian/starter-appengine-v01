@@ -32,3 +32,4 @@ out/
 .vscode/
 
 src/friendly-eats-credentials.json
+local.properties
