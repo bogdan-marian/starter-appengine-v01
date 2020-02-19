@@ -82,7 +82,7 @@ appengine {
     deploy {   // deploy configuration
         stopPreviousVersion = true  // default - stop the current version
         promote = true              // default - & make this the current version
-        projectId = 'friendly-eats-d033d'
+        projectId = 'chess-out-v2'
         version = 'v0-00-00'
     }
 

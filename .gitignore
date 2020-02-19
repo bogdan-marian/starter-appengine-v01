@@ -31,7 +31,7 @@ out/
 ### VS Code ###
 .vscode/
 
-src/friendly-eats-credentials.json
+friendly-eats-credentials.json
 local.properties
 
 ### google credentials ###
