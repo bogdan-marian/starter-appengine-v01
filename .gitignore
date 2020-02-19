@@ -33,3 +33,6 @@ out/
 
 src/friendly-eats-credentials.json
 local.properties
+
+### google credentials ###
+chess-out-v2-service-account.json

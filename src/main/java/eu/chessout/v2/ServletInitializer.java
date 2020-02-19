@@ -1,4 +1,4 @@
-package com.example.demo;
+package eu.chessout.v2;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

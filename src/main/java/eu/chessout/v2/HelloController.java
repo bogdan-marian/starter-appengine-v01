@@ -1,8 +1,8 @@
-package com.example.demo;
+package eu.chessout.v2;
 
 
-import com.example.demo.model.Book;
-import com.example.demo.service.DataService;
+import eu.chessout.v2.model.Book;
+import eu.chessout.v2.service.DataService;
 import com.google.api.core.ApiFuture;
 import com.google.cloud.firestore.DocumentReference;
 import com.google.cloud.firestore.WriteResult;

@@ -15,7 +15,12 @@
 ### notes firestore
 Testing on localhost it is easear to connect to a remote project datastore. friendly eats is a good target.  
 
-To authenticate you have to setup an environment variable "GOOGLE_APPLICATION_CREDENTIALS" ([more info](https://cloud.google.com/docs/authentication/production#auth-cloud-implicit-java)) 
+To authenticate you have to setup an environment variable "GOOGLE_APPLICATION_CREDENTIALS" ([more info](https://cloud.google.com/docs/authentication/production#auth-cloud-implicit-java))
+
+In my case
+```bash
+export GOOGLE_APPLICATION_CREDENTIALS="/home/bogdan/workspace/starter-appengine-v01/chess-out-v2-service-account.json"
+```
 
 
 ## datastore

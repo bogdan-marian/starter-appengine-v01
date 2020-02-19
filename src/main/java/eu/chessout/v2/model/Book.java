@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package eu.chessout.v2.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 

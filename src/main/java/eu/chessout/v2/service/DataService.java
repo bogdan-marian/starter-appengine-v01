@@ -1,6 +1,6 @@
-package com.example.demo.service;
+package eu.chessout.v2.service;
 
-import com.example.demo.model.Book;
+import eu.chessout.v2.model.Book;
 import com.google.cloud.firestore.Firestore;
 import com.google.cloud.firestore.FirestoreOptions;
 import org.springframework.beans.factory.annotation.Value;
