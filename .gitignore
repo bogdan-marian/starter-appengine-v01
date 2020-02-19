@@ -31,8 +31,10 @@ out/
 ### VS Code ###
 .vscode/
 
-friendly-eats-credentials.json
+
 local.properties
 
 ### google credentials ###
 chess-out-v2-service-account.json
+firebase-shessout-v2.json
+friendly-eats-credentials.json
